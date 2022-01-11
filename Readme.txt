@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+PAYPLUG HomePage
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+[PAYPLUG](http://payplug-dev.github.io/payplug)
