@@ -1,3 +1,3 @@
 PAYPLUG HomePage
 
-[PAYPLUG](http://payplug-dev.github.io/payplug)
+http://payplug-dev.github.io/payplug
