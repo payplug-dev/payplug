@@ -459,6 +459,10 @@ section {
   background-color: #f3f5fa;
 }
 
+.section-bg-white {
+  background-color: #ffffff;
+}
+
 .section-title {
   text-align: center;
   padding-bottom: 30px;
